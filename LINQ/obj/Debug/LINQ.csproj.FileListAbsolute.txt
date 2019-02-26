@@ -1,0 +1,7 @@
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\bin\Debug\LINQ.exe
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\bin\Debug\LINQ.pdb
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\obj\Debug\LINQ.exe
+C:\Users\theri\Documents\DCC_Proj\Exercises\LINQ-Assign\LINQ_Problems\LINQ\obj\Debug\LINQ.pdb
